@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #9aaac9;
+}
+
+header{
+    background-color: #39b66f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: bold;
+}
+
+section{
+    background:#ebe7da;
+    padding: 20px;
+    margin: 20px;
+}
+
+.mountain h2{ 
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.mountain h3{  
+  font-family: "Lora", serif;
+}
+  
+.forest h2{
+  font-family: "Montserrat", sans-serif;
+}
+
+.forest h3{
+  font-family: "Playfair Display", serif;
+}
+
+.beach h2{
+  font-family: "Pacifico", cursive;
+}
+
+.beach h3{
+  font-family: "Dancing Script", cursive;
+}
+
+.waterfall h2{ 
+  font-family: "Roboto", sans-serif;
+} 
+
+.waterfall h3{
+  font-family: "Merriweather Sans", sans-serif;   
+}
+
+p{
+    
+  font-family: "Bellefair", serif;
+  color: #000000;
+}
+
+   
