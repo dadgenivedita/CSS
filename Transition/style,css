@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #f5f5f5;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: #fffef9;
+    color: #052031;
+    padding: 10px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    border: 1px solid #0b171f;
+}
+.btn:hover{
+    background: #072133;
+    color: #fff;
+    border: 1px solid #04131d;   
+    transform: scale(1.5);
+}
